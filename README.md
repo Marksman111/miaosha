@@ -83,6 +83,7 @@
 | 029 |dubbo客户端 dubbo-admin管理平台 搭建安装|[解决思路](/docs/dubbo-admin.md)   |
 | 030 |如何利用dubbo 的mock 来进行服务降级本地伪装 ?? (有更好的方式进群@我)|[解决思路](/docs/dubbo-zk.md)   |
 | 031 |*** 如何利用lua + redis  取代 nigix + lua 脚本进行分布式限流 (请看miaosha-2version) ？ *** |[解决思路](/docs/redis-good.md)   |
+| 032 |多数据源配置 如何进行多数据源配置 |[解决思路](/docs/code-solve.md)   |
 
 
 #### [分布式系统发展历程（已更新）](/docs/fenbushi.md)
@@ -91,7 +92,7 @@
 #### [redis 使用与进阶以及如何进行集群--已更新](/docs/redis-good.md)
 #### [spring源码--未更新](/docs/redis-code.md)
 #### [分布式治理框架-dubbo - zk - 解析--更新中](/docs/dubbo-zk.md)
-#### [通信mq-Kafka--未更新](/docs/redis-code.md)
+#### [多线程分析以及三高多线程demo系统  ](https://github.com/qiurunze123/threadandjuc)
 #### [微服务框架--未更新](/docs/redis-code.md)
 -------------------------------------------------|
 #### [mysql数据库优化及架构学习](/docs/mysql.md)
